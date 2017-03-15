@@ -1,0 +1,1 @@
+var allImgArr = ["images/a/b/main_light.png","images/a/main_cloud.png","images/main_bg.jpg"];
